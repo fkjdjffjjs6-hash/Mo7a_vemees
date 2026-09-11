@@ -1,0 +1,30 @@
+{
+  "inbounds": [
+    {
+      "port": 8080,
+      "protocol": "vmess",
+      "settings": {
+        "clients": [
+          {
+            "id": "df137605-475a-408e-9013-33e595c6d837",
+            "alterId": 0
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "none",
+        "wsSettings": {
+          "path": "/Radwan/Mo7a/@Ghoo_4st"
+        }
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "freedom",
+      "settings": {}
+    }
+  ]
+}
+
